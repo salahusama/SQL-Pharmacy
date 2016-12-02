@@ -1,0 +1,2 @@
+# SQL-Pharmacy
+Databases assignment
