@@ -1,4 +1,4 @@
 # SQL-Pharmacy
 Databases assignment
 
-Work in progress. PLease ignore
+Work in progress. Please ignore
